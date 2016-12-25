@@ -1,5 +1,5 @@
-# learningDemo
-private learning for java
+# learningDemo private learning for java
+
 echo "# learningDemo" >> README.md
 git init
 git add README.md
