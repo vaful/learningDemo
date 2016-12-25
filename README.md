@@ -1,8 +1,5 @@
 # learningDemo private learning for java
 
-echo "# learningDemo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/vaful/learningDemo.git
-git push -u origin master
+"# learningDemo" >> README.md
+remote add origin https://github.com/vaful/learningDemo.git
+
